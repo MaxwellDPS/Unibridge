@@ -34,6 +34,17 @@ Radio - Main Radio Trans Dir
  ```
 
 I have a symlink on my trunkplayer system
+
 ``` lrwxrwxrwx 1 root  root     22 Jan  3 14:22 audio_files -> /media/Mount/NAS/Radio ```
 
 I have this mounted as a network disk on windows
+
+Next setup unitrunker and trunking recorder
+
+Next set trunking recorder settings to
+![audio](https://maxwelldps.com/trrec.PNG)
+![audior](https://maxwelldps.com/trrecaudio.PNG)
+
+then in Module1.vb change the settings on the top to match you Trunking recorder output dir amd the dir that trunk player is looking for files. then set your tplayer box ssh settings and run!
+
+
