@@ -47,4 +47,12 @@ Next set trunking recorder settings to
 
 then in Module1.vb change the settings on the top to match you Trunking recorder output dir amd the dir that trunk player is looking for files. then set your tplayer box ssh settings and run!
 
-
+```
+    'Change --------------------------------------
+    Public host As String = "Tplayer.net.local"
+    Public username As String = "radio"
+    Public pass As String = "pass"
+    Public TRPATH = "V:\NAS\Truning Recorder Output Folder\"
+    Public TPLAYERPATH = "V:\NAS\trunk player symlinked dir\"
+    '---------------------------------------------
+    ```
