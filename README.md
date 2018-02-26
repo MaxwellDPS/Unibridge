@@ -45,14 +45,13 @@ Next set trunking recorder settings to
 ![audio](https://maxwelldps.com/trrec.PNG)
 ![audior](https://maxwelldps.com/trrecaudio.PNG)
 
-then in Module1.vb change the settings on the top to match you Trunking recorder output dir amd the dir that trunk player is looking for files. then set your tplayer box ssh settings and run!
-
+###RUNNING
 ```
-    'Change --------------------------------------
-    Public host As String = "Tplayer.net.local"
-    Public username As String = "radio"
-    Public pass As String = "pass"
-    Public TRPATH = "V:\NAS\Truning Recorder Output Folder\"
-    Public TPLAYERPATH = "V:\NAS\trunk player symlinked dir\"
-    '---------------------------------------------
-    ```
+EXAMPLE: unitrunker.exe --host 192.168.1.23 --user radio --pass Password1 --trpath V:\NAS\NewAudio\ --tplayerpath V:\NAS\FinalAudioFolder
+
+     --host Trunkplayer SSH HOST OR IP
+     --user TrunkPlayer SSH User
+     --pass TrunkPlyer SSH Password
+     --trpath "V:\NAS\Truning Recorder Output Folder\"
+     --tplayerpath "V:\NAS\trunk player symlinked dir\"
+     ```
