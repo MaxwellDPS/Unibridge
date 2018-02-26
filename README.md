@@ -33,6 +33,7 @@ Radio - Main Radio Trans Dir
  New - Trunking recorder output 
  ```
  I have Trunking recorer recored to v:\NAS\Radio\NEW
+ 
  I have Trunkplayer symlinked to V:\NAS/Radio <- From my windows system
 
 I have a symlink on my trunkplayer system
