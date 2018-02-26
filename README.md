@@ -45,7 +45,7 @@ Next set trunking recorder settings to
 ![audio](https://maxwelldps.com/trrec.PNG)
 ![audior](https://maxwelldps.com/trrecaudio.PNG)
 
-###RUNNING
+### RUNNING
 ```
 EXAMPLE: unitrunker.exe --host 192.168.1.23 --user radio --pass Password1 --trpath V:\NAS\NewAudio\ --tplayerpath V:\NAS\FinalAudioFolder
 
