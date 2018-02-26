@@ -1,0 +1,15 @@
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Unibridge.exe.config
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Unibridge.exe
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Unibridge.pdb
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Unibridge.xml
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Renci.SshNet.dll
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\bin\Debug\Renci.SshNet.xml
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\obj\Debug\Unibridge.vbprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\obj\Debug\Unibridge.Resources.resources
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\obj\Debug\Unibridge.vbproj.GenerateResource.Cache
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\obj\Debug\Unibridge.vbproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\obj\Debug\Unibridge.exe
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\obj\Debug\Unibridge.xml
+C:\Users\Max\Documents\GitHub\UniBridge\Unibridge\Unibridge\obj\Debug\Unibridge.pdb

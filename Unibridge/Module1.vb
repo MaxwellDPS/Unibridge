@@ -22,8 +22,30 @@ Module Module1
 
     Sub Main()
 
-        WatchFolders(TRPATH)
-        Console.WriteLine("STARTED")
+        Dim clArgs() As String = Environment.GetCommandLineArgs()
+        Dim count = 0
+
+        If clArgs.Count = 11 Then
+            host = clArgs(2)
+            username = clArgs(4)
+            pass = clArgs(6)
+            TRPATH = clArgs(8)
+            TPLAYERPATH = clArgs(10)
+            WatchFolders(TRPATH)
+            Console.WriteLine("STARTED")
+            While True
+
+            End While
+        Else
+            Console.WriteLine("UniPlayer HELP" & vbCrLf)
+            Console.WriteLine("EXAMPLE: unitrunker.exe --host 192.168.1.23 --user radio --pass Password1 --trpath V:\NAS\NewAudio\ --tplayerpath V:\NAS\FinalAudioFolder" & vbCrLf)
+            Console.WriteLine("     --host Trunkplayer SSH HOST OR IP")
+            Console.WriteLine("     --user TrunkPlayer SSH User")
+            Console.WriteLine("     --pass TrunkPlyer SSH Password")
+            Console.WriteLine("     --trpath V:\NAS\Truning Recorder Output Folder\")
+            Console.WriteLine("     --tplayerpath V:\NAS\trunk player symlinked dir\" & vbCrLf)
+        End If
+
     End Sub
 
     Sub WatchFolders(folder As String)
