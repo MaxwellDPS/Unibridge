@@ -3,7 +3,7 @@
 
 Unibridge is a program that allows transmissions to be added to trunk player from a unitrunker system.
 
-  - Add EDACS, and Unitrunken supported systems to Trunk player
+  - Add EDACS, and Unitrunker supported systems to Trunk player
   
 
 ### Required
@@ -32,6 +32,8 @@ Radio - Main Radio Trans Dir
   |
  New - Trunking recorder output 
  ```
+ I have Trunking recorer recored to v:\NAS\Radio\NEW
+ I have Trunkplayer symlinked to V:\NAS/Radio <- From my windows system
 
 I have a symlink on my trunkplayer system
 
